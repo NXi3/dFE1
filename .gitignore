@@ -5,6 +5,12 @@
 /tmp
 /out-tsc
 /bazel-out
+www
+desktop
+mobile
+packages
+docs
+resources
 
 # Node
 /node_modules

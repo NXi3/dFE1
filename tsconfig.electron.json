@@ -1,0 +1,22 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "strict": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "esnext",
+    "module": "commonjs",
+    "typeRoots": [],
+    "lib": [
+      "es2018",
+      "dom"
+    ]
+  },
+  "files": [
+    "electron.main.ts"
+  ]
+}
